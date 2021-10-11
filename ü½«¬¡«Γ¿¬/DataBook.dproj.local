@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.09.19 00:17:34.765.pas,C:\Documents and Settings\XIO\My Documents\RAD Studio\Projects\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmMain.pas</Transaction>
+    <Transaction>2009.09.19 00:17:34.765.dfm,C:\Documents and Settings\XIO\My Documents\RAD Studio\Projects\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmMain.dfm</Transaction>
+    <Transaction>2009.09.19 00:18:09.734.dproj,C:\Documents and Settings\XIO\My Documents\RAD Studio\Projects\Project1.dproj=D:\Delphi\Projects\Bloknot31\DataBook.dproj</Transaction>
+    <Transaction>2009.09.19 23:07:31.781.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmEditU.pas</Transaction>
+    <Transaction>2009.09.19 23:07:31.781.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmEditU.dfm</Transaction>
+    <Transaction>2009.09.25 22:49:24.578.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmViewSubjectU.pas</Transaction>
+    <Transaction>2009.09.25 22:49:24.578.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmViewSubjectU.dfm</Transaction>
+    <Transaction>2009.09.26 15:37:03.015.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmCatalogU.pas</Transaction>
+    <Transaction>2009.09.26 15:37:03.015.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmCatalogU.dfm</Transaction>
+    <Transaction>2009.09.26 16:03:35.734.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmDataU.pas</Transaction>
+    <Transaction>2009.09.26 16:03:35.734.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmDataU.dfm</Transaction>
+    <Transaction>2009.09.26 16:12:51.156.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmEventU.pas</Transaction>
+    <Transaction>2009.09.26 16:12:51.156.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmEventU.dfm</Transaction>
+    <Transaction>2009.09.26 16:40:12.765.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmReminderU.pas</Transaction>
+    <Transaction>2009.09.26 16:40:12.765.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmReminderU.dfm</Transaction>
+    <Transaction>2009.10.02 22:15:53.453.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\dataU.pas</Transaction>
+    <Transaction>2009.10.02 22:15:53.453.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\dataU.dfm</Transaction>
+    <Transaction>2009.11.29 13:45:40.373.pas,D:\Common\Delphi\XIO\xDateWork.pas=</Transaction>
+    <Transaction>2009.11.29 13:45:40.467.pas,D:\Common\Delphi\XIO\xDBFunc.pas=</Transaction>
+    <Transaction>2009.11.29 13:45:40.483.pas,D:\Common\Delphi\XIO\xStringsF.pas=</Transaction>
+    <Transaction>2009.11.29 13:45:40.514.pas,D:\Common\Delphi\XIO\xSysF.pas=</Transaction>
+    <Transaction>2009.11.29 15:02:52.795.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmPrgVerU.pas</Transaction>
+    <Transaction>2009.11.29 15:02:52.795.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmPrgVerU.dfm</Transaction>
+    <Transaction>2009.11.29 15:13:38.170.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmAboutAvtorU.pas</Transaction>
+    <Transaction>2009.11.29 15:13:38.170.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmAboutAvtorU.dfm</Transaction>
+    <Transaction>2009.12.01 12:08:57.854.pas,F:\XIOSources\Bloknot31\Unit1.pas=F:\XIOSources\Bloknot31\fmSQLViewU.pas</Transaction>
+    <Transaction>2009.12.01 12:08:57.854.dfm,F:\XIOSources\Bloknot31\Unit1.dfm=F:\XIOSources\Bloknot31\fmSQLViewU.dfm</Transaction>
+    <Transaction>2009.12.21 21:49:44.219.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmSortMainU.pas</Transaction>
+    <Transaction>2009.12.21 21:49:44.219.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmSortMainU.dfm</Transaction>
+    <Transaction>2010.01.21 21:38:26.718.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmReminderEditU.pas</Transaction>
+    <Transaction>2010.01.21 21:38:26.718.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmReminderEditU.dfm</Transaction>
+    <Transaction>2010.02.11 20:42:53.046.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\fmSearchU.pas</Transaction>
+    <Transaction>2010.02.11 20:42:53.046.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\fmSearchU.dfm</Transaction>
+    <Transaction>2010.02.28 18:26:22.875.pas,D:\Delphi\Projects\Bloknot31\Unit1.pas=D:\Delphi\Projects\Bloknot31\frmCalendar.pas</Transaction>
+    <Transaction>2010.02.28 18:26:22.875.dfm,D:\Delphi\Projects\Bloknot31\Unit1.dfm=D:\Delphi\Projects\Bloknot31\frmCalendar.dfm</Transaction>
+    <Transaction>2010.05.02 20:44:14.562.pas,P:\Delphi\Projects\Bloknot31\Unit1.pas=P:\Delphi\Projects\Bloknot31\fmAvtorFotoU.pas</Transaction>
+    <Transaction>2010.05.02 20:44:14.562.dfm,P:\Delphi\Projects\Bloknot31\Unit1.dfm=P:\Delphi\Projects\Bloknot31\fmAvtorFotoU.dfm</Transaction>
+    <Transaction>2010.05.03 18:36:34.156.pas,P:\Delphi\Projects\Bloknot31\Unit1.pas=P:\Delphi\Projects\Bloknot31\fmBlagoU.pas</Transaction>
+    <Transaction>2010.05.03 18:36:34.156.dfm,P:\Delphi\Projects\Bloknot31\Unit1.dfm=P:\Delphi\Projects\Bloknot31\fmBlagoU.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
